@@ -1,0 +1,9 @@
+[Scheme]
+Name=Lasersaber Xfce
+ColorForeground=#eeeeee
+ColorBackground=#111214
+ColorPalette=#000000;#dd1f29;#77b320;#ff9600;#3c7efa;#a82ca6;#2bd991;#a3a3a3;#6a6a6a;#ff536d;#6bff97;#f8fd58;#78aaff;#ff92f8;#86ffe3;#ffffff
+ColorCursor=#18191c
+ColorBold=#ffffff
+ColorBoldUseDefault=FALSE
+TabActivityColor=#bf4040
